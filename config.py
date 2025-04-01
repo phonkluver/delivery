@@ -9,7 +9,8 @@ BOT_TOKEN = "7733149772:AAGxMVIpiTgGO0TzdbBDiciCX7fsCAu5Q-A"
 
 # Admin chat IDs - only add admin accounts here
 ADMIN_CHAT_IDS = [
-    5244740812,  # Main administrator
+    5244740812,
+    7387421563
 ]
 
 # User roles
